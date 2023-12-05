@@ -10,8 +10,7 @@ The Hospital Activity Dataset is a valuable resource consisting of 5,770 images 
 
 Anyone who want to access the data folder could redirect to https://docs.google.com/forms/d/e/1FAIpQLSdga4o-HnFq_uaxRiNfhZO3wxJGQnzqfxJ765yFZFpyntepUA/viewform?usp=sf_link
 
-The image folders contain the original jpeg files. The labels folers contains xml file of the object labels. Download both and combine them in one of the labeling softwares and then ready to be used. 
-
+The image folders contain the original jpeg files. The train and test split contains the related image path.
 The table below shows the activity description and statistics.
 
 | Activity | Description | Shortened | Number of people | Count |
