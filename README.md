@@ -6,6 +6,12 @@ The Hospital Activity Dataset is a valuable resource consisting of 5,770 images 
 <img width="640" alt="image" src="https://github.com/Wangmmstar/hospital-activity-dataset/assets/29313094/601c2aba-4fa3-43b6-b4e8-df38c97a6639">
 </p>
 
+# Usage
+
+Anyone who want to access the data folder could redirect to https://docs.google.com/forms/d/e/1FAIpQLSdga4o-HnFq_uaxRiNfhZO3wxJGQnzqfxJ765yFZFpyntepUA/viewform?usp=sf_link
+
+The image folders contain the original jpeg files. The labels folers contains xml file of the object labels. Download both and combine them in one of the labeling softwares and then ready to be used. 
+
 The table below shows the activity description and statistics.
 
 | Activity | Description | Shortened | Number of people | Count |
