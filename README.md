@@ -6,7 +6,7 @@ The Hospital Activity Dataset is a valuable resource consisting of 5,770 images 
 <img width="640" alt="image" src="https://github.com/Wangmmstar/hospital-activity-dataset/assets/29313094/601c2aba-4fa3-43b6-b4e8-df38c97a6639">
 </p>
 
-For further description, please refer to this paper: [Multi-classifier information fusion for human activity recognition in healthcare facilities]([https://www.sciencedirect.com/science/article/pii/S0952197623004074](https://link.springer.com/article/10.1007/s42524-024-4074-y))
+For further description, please refer to this paper: [Multi-classifier information fusion for human activity recognition in healthcare facilities]([https://link.springer.com/article/10.1007/s42524-024-4074-y])
 
 # Citation
 Hu, D., Wang, M. & Li, S. Multi-classifier information fusion for human activity recognition in healthcare facilities. Front. Eng. Manag. 12, 99–116 (2025). https://doi.org/10.1007/s42524-024-4074-y
